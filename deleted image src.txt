@@ -1,0 +1,92 @@
+http://shifthtml.themerex.net/js/jquery.tools.custom.js
+http://shifthtml.themerex.net/js/jquery.flexslider.min.js
+http://shifthtml.themerex.net/js/jquery.min.js
+http://shifthtml.themerex.net/js/jquery.prettyPhoto.js
+http://shifthtml.themerex.net/js/jquery.isotope.min.js
+http://shifthtml.themerex.net/js/jquery.cookie.js
+http://shifthtml.themerex.net/js/mediaelement.min.js
+http://shifthtml.themerex.net/js/jquery.qrcode-0.6.0.min.js
+http://shifthtml.themerex.net/js/googlemap_init.js
+http://shifthtml.themerex.net/js/jquery.easing.js
+http://shifthtml.themerex.net/js/jquery.reject.js
+http://shifthtml.themerex.net/js/utils.js
+http://shifthtml.themerex.net/js/lib.js
+
+
+
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false
+
+Deleted photo resources:
+
+    <article class="post portfolio_post portfolio_post_8 odd category_4 category_5 isotope-item" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=108" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=108" alt="Portfolio 8"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio 8</a></h4>
+                        <h5 class="post_subtitle">Web, Graphics</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_9 even category_5 category_6 isotope-item" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 147px, 0px) scale3d(1, 1, 1); opacity: 1;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=109" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=109" alt="Portfolio 7"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio 7</a></h4>
+                        <h5 class="post_subtitle">Graphics, Photo</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_10 odd category_4 isotope-item isotope-hidden" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 352px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=110" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=110" alt="Lorem Ipsum"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Lorem Ipsum</a></h4>
+                        <h5 class="post_subtitle">Web</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_11 even category_6 isotope-item isotope-hidden" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(508px, 352px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=111" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=111" alt="Portfolio 5"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio 5</a></h4>
+                        <h5 class="post_subtitle">Photo</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_12 odd category_4 isotope-item isotope-hidden" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(254px, 352px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=112" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=112" alt="Portfolio 4"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio 4</a></h4>
+                        <h5 class="post_subtitle">Web</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_13 even category_5 isotope-item" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 294px, 0px) scale3d(1, 1, 1); opacity: 1;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=113" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=113" alt="Portfolio item 3"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio item 3</a></h4>
+                        <h5 class="post_subtitle">Graphics</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_14 odd category_6 isotope-item isotope-hidden" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 2288px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=114" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=114" alt="Portfolio item 2"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio item 2</a></h4>
+                        <h5 class="post_subtitle">Photo</h5>
+                      </article>
+                      <article class="post portfolio_post portfolio_post_15 even category_1 category_5 isotope-item" data-page="" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 441px, 0px) scale3d(1, 1, 1); opacity: 1;">
+                        <div class="post_pic portfolio_post_pic">
+                          <a class="w_hover img-link img-wrap" href="https://unsplash.it/200/300?image=115" data-photo="prettyPhoto">
+                            <span class="overlay"></span> <span class="link-icon"></span>
+                            <img src="https://unsplash.it/200/300?image=115" alt="Portfolio item 15"> </a>
+                        </div>
+                        <h4 class="post_title"><a href="portfolio.html">Portfolio item 1</a></h4>
+                        <h5 class="post_subtitle">Web, Graphics</h5>
+                      </article>

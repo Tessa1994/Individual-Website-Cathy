@@ -1,0 +1,20 @@
+http://cathy.resume.com/resume/v1/index.html
+file:///C:/Users/i339238/Desktop/resume-cathy/index.html
+
+[http:] ??
+cathy.resume.com ?? Domain
+/resume/v1/ PATH
+index.html  Resource
+
+
+href="http://google.com/xxxx.xml"
+
+href="abc.xml" http://cathy.resume.com/resume/v1/abc.html
+href="/abc.xml" http://cathy.resume.com/abc.html
+
+web-root-folder[domain-root]
+    abc.xml
+    resume
+        v1
+            index.html
+            abc.xml
