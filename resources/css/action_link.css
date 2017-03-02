@@ -13,7 +13,7 @@
 }
 
 [is='action-link']:active {
-  color: rgb(5, 37, 119);
+  color: rgb(35, 37, 119);
   text-decoration: underline;
 }
 
